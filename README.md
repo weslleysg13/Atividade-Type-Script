@@ -1,0 +1,2 @@
+# Atividade-Type-Script
+Criem uma aplicação em typescript baseada no exemplo mostrado na aula do dia 03/10 e presente na      pasta do módulo 3. A aplicação deverá rodar através do servidor de aplicação SERVE sem erros.      A aplicação deverá conter frontend baseado em html e css, e um cadastro de produto, pessoas, tarefas,     o que vocês preferirem, também deverá ser possível remover o item cadastrado na lista.
