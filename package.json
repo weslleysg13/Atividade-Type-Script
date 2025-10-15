@@ -1,0 +1,28 @@
+{
+  "name": "atividade-type-script",
+  "version": "1.0.0",
+  "description": "Criem uma aplicação em typescript baseada no exemplo mostrado na aula do dia 03/10 e presente na      pasta do módulo 3. A aplicação deverá rodar através do servidor de aplicação SERVE sem erros.      A aplicação deverá conter frontend baseado em html e css, e um cadastro de produto, pessoas, tarefas,     o que vocês preferirem, também deverá ser possível remover o item cadastrado na lista.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weslleysg13/Atividade-Type-Script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weslleysg13/Atividade-Type-Script/issues"
+  },
+  "homepage": "https://github.com/weslleysg13/Atividade-Type-Script#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "vite": "^7.1.10"
+  }
+}
